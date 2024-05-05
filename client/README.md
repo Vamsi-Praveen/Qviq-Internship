@@ -21,8 +21,8 @@ Folder Structure
 
 Steps  to run the project locally
 
-1.open cmd or terminal in root directory and type the following command `npm install`
-2.start the project by running `npm run dev`
+1. open cmd or terminal in root directory and type the following command `npm install`
+2. start the project by running `npm run dev`
 
 
 *NOTE*
