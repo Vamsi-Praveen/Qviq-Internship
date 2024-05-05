@@ -1,23 +1,23 @@
 Folder Structure
     /
-        -public\n
-        -src\n
-            -assets\n
-            -components\n
-            -config\n
-            -context\n
-            -hooks\n
-            -pages\n
-                -Login.jsx --> login page\n
-                -SignUp.jsx --> registartion page\n
-                -Edit.jsx --> Updating data page\n
-                -Dashboard.jsx --> Main page\n
-                -UserProfile.jsx --> user Profile page\n
-            -utils\n
-            -App.js\n
-            -main.js\n
-        -index.html\n
-        package.json\n
+        -public
+        -src
+            -assets
+            -components
+            -config
+            -context
+            -hooks
+            -pages
+                -Login.jsx --> login page
+                -SignUp.jsx --> registartion page
+                -Edit.jsx --> Updating data page
+                -Dashboard.jsx --> Main page
+                -UserProfile.jsx --> user Profile page
+            -utils
+            -App.js
+            -main.js
+        -index.html
+        package.json
 
 Steps  to run the project locally
 
